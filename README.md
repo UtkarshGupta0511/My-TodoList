@@ -2,7 +2,7 @@
 
 TO-DO-LIST (Made using HTML5 CSS3 and JavaScript)
 
-You can see the website live at: https://5codeman.github.io/TO-DO-LIST/
+You can see the website live at:  https://utkarshgupta0511.github.io/My-TodoList/
 
 ABOUT THIS PROJECT-:
 
